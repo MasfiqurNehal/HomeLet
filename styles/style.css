@@ -1,0 +1,21 @@
+.image{
+    width: 100%;
+}
+#header{
+    
+    font-size: 35px;
+    font-weight: 700;
+}
+#ome{
+    color: slateblue;
+}
+#ome2{
+    color: slateblue;
+}
+#foot{
+    color: white;
+    background-color: #3B3B3B;
+}
+#text{
+    font-size: 20px;
+}
